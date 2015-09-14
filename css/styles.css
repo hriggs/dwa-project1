@@ -55,3 +55,38 @@ footer {
 	margin-top: 2em;
 	padding: 1em;
 }
+
+/* Responsive Styles */
+
+@media (max-width: 1075px) {
+	
+	h1 {
+		font-size: 200%;
+	}
+}
+
+@media (max-width: 1000px) {
+	
+	h1 {
+		font-size: 180%;
+	}
+}
+
+@media (max-width: 500px) {
+	
+	.questions {
+		margin-top: 2em;
+	}
+	
+	.question {
+		font-size: 100%;
+	}
+}
+
+
+
+
+
+
+
+
