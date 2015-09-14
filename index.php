@@ -6,10 +6,10 @@ CSCI E-15: Dynamic Web Applications
 -->
 <html>
 <head>
-<meta charset="utf-8" />
-<title>Hannah Riggs P1 - DWA Portfolio</title>
-<link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="stylesheet" href="css/styles.css">
+	<meta charset="utf-8" />
+	<title>Hannah Riggs P1 - DWA Portfolio</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
 	<div class="container-fluid">
@@ -22,7 +22,7 @@ CSCI E-15: Dynamic Web Applications
 						<img src="images/headshot.jpg" alt="Photo of Hannah Riggs." class="img-responsive img-thumbnail">
 					</div> 
 					<div class="col-lg-7 col-md-7 col-sm-7">
-						<p class="p-title">Project 2 Title</p>
+						<p class="p-title title-1">Project 2 Title</p>
 						<a href="#" target="_blank"><button class="btn btn-primary">Live Site</button></a>
 						<a href="#" target="_blank"><button class="btn btn-primary">GitHub</button></a>
 						<p class="p-title">Project 3 Title</p>
@@ -32,7 +32,7 @@ CSCI E-15: Dynamic Web Applications
 						<a href="#" target="_blank"><button class="btn btn-primary">Live Site</button></a>
 						<a href="#" target="_blank"><button class="btn btn-primary">GitHub</button></a>
 					</div> <!-- end cols with project info-->
-				</div> <!-- end headshot row-->
+				</div> <!-- end row with image -->
 				<div class="questions">
 					<p class="question">In 2+ sentences describe who you are and what you do.</p>
 					<p class="answer">My name is Hannah Riggs and I live in Waltham, MA. I received my BA in Dance with concentrations in both ballet and modern from Point Park University's Conservatory of Performing Arts. I currently work as a professional dancer with two companies: Fusionworks, a contemporary company, and Metamorphosis, a dance troupe that is a branch of TEN31 Productions. I also work as a living statue and character with TEN31 Productions. Finally, I also work in the STEM Division office at MassBay Community College as the STEM SSA Academic Program Coordinator. </p>
@@ -46,9 +46,9 @@ CSCI E-15: Dynamic Web Applications
 					<p class="answer">Besides dancing, programming and web design, my other interests include video games, travel, literature and outreach work with kids. I am looking forward to continuing this class; I can tell it will be a fun, challenging and rewarding experience! </p>
 				</div> <!-- end questions -->
 				<footer>Copyright &copy; 2015 Hannah Riggs</footer>
-			</div> <!-- end content-->
+			</div> <!-- end content -->
 			<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2"></div>
-		</div> <!-- end row of all content-->
-	</div> <!-- end container-fluid-->
+		</div> <!-- end row of all content -->
+	</div> <!-- end container-fluid -->
 </body>
 </html>
