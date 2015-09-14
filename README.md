@@ -11,6 +11,7 @@ None required for Project 1.
 
 ## Details for teaching team
 Bootstrap used as front-end framework as extra challenge. 
+The site is responsive. 
 
 ## Outside code
 * Bootstrap: http://getbootstrap.com/
