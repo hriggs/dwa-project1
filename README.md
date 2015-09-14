@@ -4,7 +4,7 @@
 <http://p1.hriggs.me>
 
 ## Description
-A portfolio website that includes placeholder links to future projects and information about me. 
+The Project 1 portfolio website for the class CSCI E-15: Dynamic Web Applications. It includes placeholders names and links for future projects, a picture of me and information about my background.
 
 ## Demo
 None required for Project 1. 
