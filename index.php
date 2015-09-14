@@ -23,14 +23,14 @@ CSCI E-15: Dynamic Web Applications
 					</div> 
 					<div class="col-lg-7 col-md-7 col-sm-7">
 						<p class="p-title title-1">Project 2 Title</p>
-						<a href="#" target="_blank"><button class="btn btn-primary">Live Site</button></a>
-						<a href="#" target="_blank"><button class="btn btn-primary">GitHub</button></a>
+						<a href="#" target="_blank" class="btn btn-primary">Live Site</a>
+						<a href="#" target="_blank" class="btn btn-primary">GitHub</a>
 						<p class="p-title">Project 3 Title</p>
-						<a href="#" target="_blank"><button class="btn btn-primary">Live Site</button></a>
-						<a href="#" target="_blank"><button class="btn btn-primary">GitHub</button></a>
+						<a href="#" target="_blank" class="btn btn-primary">Live Site</a>
+						<a href="#" target="_blank" class="btn btn-primary">GitHub</a>
 						<p class="p-title">Project 4 Title</p>
-						<a href="#" target="_blank"><button class="btn btn-primary">Live Site</button></a>
-						<a href="#" target="_blank"><button class="btn btn-primary">GitHub</button></a>
+						<a href="#" target="_blank" class="btn btn-primary">Live Site</a>
+						<a href="#" target="_blank" class="btn btn-primary">GitHub</a>
 					</div> <!-- end cols with project info-->
 				</div> <!-- end row with image -->
 				<div class="questions">
