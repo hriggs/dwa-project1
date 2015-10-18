@@ -26,8 +26,8 @@ CSCI E-15: Dynamic Web Applications
 						<a href="http://p2.hriggs.me" target="_blank" class="btn btn-primary">Live Site</a>
 						<a href="https://github.com/hriggs/dwa-project2" target="_blank" class="btn btn-primary">GitHub</a>
 						<p class="p-title">Project 3 Title</p>
-						<a href="#" target="_blank" class="btn btn-primary">Live Site</a>
-						<a href="#" target="_blank" class="btn btn-primary">GitHub</a>
+						<a href="http://p3.hriggs.me" target="_blank" class="btn btn-primary">Live Site</a>
+						<a href="https://github.com/hriggs/dwa-project3" target="_blank" class="btn btn-primary">GitHub</a>
 						<p class="p-title">Project 4 Title</p>
 						<a href="#" target="_blank" class="btn btn-primary">Live Site</a>
 						<a href="#" target="_blank" class="btn btn-primary">GitHub</a>
