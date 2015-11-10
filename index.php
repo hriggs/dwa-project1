@@ -22,15 +22,15 @@ CSCI E-15: Dynamic Web Applications
 						<img src="images/headshot.jpg" alt="Photo of Hannah Riggs." class="img-responsive img-thumbnail">
 					</div> 
 					<div class="col-lg-7 col-md-7 col-sm-7">
-						<p class="p-title title-1">Project 2 Title</p>
+						<p class="p-title title-1">Project 2: xkcd Password Generator</p>
 						<a href="http://p2.hriggs.me" target="_blank" class="btn btn-primary">Live Site</a>
 						<a href="https://github.com/hriggs/dwa-project2" target="_blank" class="btn btn-primary">GitHub</a>
-						<p class="p-title">Project 3 Title</p>
+						<p class="p-title">Project 3: Developer's Best Friend</p>
 						<a href="http://p3.hriggs.me" target="_blank" class="btn btn-primary">Live Site</a>
 						<a href="https://github.com/hriggs/dwa-project3" target="_blank" class="btn btn-primary">GitHub</a>
-						<p class="p-title">Project 4 Title</p>
-						<a href="#" target="_blank" class="btn btn-primary">Live Site</a>
-						<a href="#" target="_blank" class="btn btn-primary">GitHub</a>
+						<p class="p-title">Project 4: GameLit</p>
+						<a href="http://p4.hriggs.me" target="_blank" class="btn btn-primary">Live Site</a>
+						<a href="https://github.com/hriggs/dwa-project3" target="_blank" class="btn btn-primary">GitHub</a>
 					</div> <!-- end cols with project info-->
 				</div> <!-- end row with image -->
 				<div class="questions">
