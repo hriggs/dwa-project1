@@ -28,7 +28,7 @@ CSCI E-15: Dynamic Web Applications
 						<p class="p-title">Project 3: Developer's Best Friend</p>
 						<a href="http://p3.hriggs.me" target="_blank" class="btn btn-primary">Live Site</a>
 						<a href="https://github.com/hriggs/dwa-project3" target="_blank" class="btn btn-primary">GitHub</a>
-						<p class="p-title">Project 4: GameLit</p>
+						<p class="p-title">Project 4: PuzzleLit</p>
 						<a href="http://p4.hriggs.me" target="_blank" class="btn btn-primary">Live Site</a>
 						<a href="https://github.com/hriggs/dwa-project3" target="_blank" class="btn btn-primary">GitHub</a>
 					</div> <!-- end cols with project info-->
